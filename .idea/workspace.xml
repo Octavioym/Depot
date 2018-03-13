@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f6a1de1-8060-4b9a-b7ce-696ff883955c" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.generators" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/OYM_Depot.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/cf477fe2-afdb-4390-b392-3f307a828b36.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/cf477fe2-afdb-4390-b392-3f307a828b36/storage_v2/_src_/schema/main.uQUzAA.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/3.1.11'" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/3.1.7'" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Capfile" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Rakefile" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/config/manifest.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/.keep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/7apps.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/adrpo.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/dcbang.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/logo.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/rails.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/admin.coffee" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/cable.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/carts.coffee" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/channels/.keep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/channels/products.coffee" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/line_items.coffee" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/orders.coffee" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/products.coffee" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/sessions.coffee" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/store.coffee" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/users.coffee" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/admin.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/carts.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/line_items.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/orders.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/products.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/scaffolds.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/sessions.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/store.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/users.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/channels/application_cable/channel.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/channels/application_cable/connection.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/channels/products_channel.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/controllers/admin_controller.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/controllers/carts_controller.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/controllers/concerns/.keep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/controllers/concerns/current_cart.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/controllers/line_items_controller.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/controllers/orders_controller.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/controllers/products_controller.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/controllers/sessions_controller.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/controllers/store_controller.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/controllers/users_controller.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/helpers/admin_helper.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/helpers/application_helper.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/helpers/carts_helper.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/helpers/line_items_helper.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/helpers/orders_helper.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/helpers/products_helper.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/helpers/sessions_helper.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/helpers/store_helper.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/helpers/users_helper.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/jobs/application_job.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/mailers/application_mailer.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/mailers/order_mailer.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/models/application_record.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/models/cart.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/models/concerns/.keep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/models/line_item.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/models/order.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/models/product.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/models/user.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/store.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/admin/index.html.erb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/carts/_cart.html.erb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/carts/_cart.json.jbuilder" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/carts/_form.html.erb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/carts/edit.html.erb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/carts/index.html.erb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/carts/index.json.jbuilder" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/carts/new.html.erb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/carts/show.html.erb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/carts/show.json.jbuilder" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/mailer.html.erb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/mailer.text.erb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/line_items/_form.html.erb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/line_items/_line_item.html.erb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/line_items/_line_item.json.jbuilder" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/line_items/_line_item.text.erb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/line_items/create.js.erb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/line_items/edit.html.erb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/line_items/index.html.erb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/line_items/index.json.jbuilder" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/line_items/new.html.erb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/line_items/show.html.erb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/line_items/show.json.jbuilder" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/order_mailer/received.text.erb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/order_mailer/shipped.html.erb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/orders/_form.html.erb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/orders/_order.json.jbuilder" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/orders/edit.html.erb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/orders/index.html.erb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/orders/index.json.jbuilder" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/orders/new.html.erb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/orders/show.html.erb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/orders/show.json.jbuilder" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/products/_form.html.erb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/products/_product.json.jbuilder" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/products/edit.html.erb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/products/index.html.erb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/products/index.json.jbuilder" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/products/index.xml.builder" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/products/new.html.erb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/products/show.html.erb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/products/show.json.jbuilder" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/products/who_bought.atom.builder" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/products/who_bought.html.erb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/products/who_bought.xml.builder" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/sessions/create.html.erb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/sessions/destroy.html.erb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/sessions/new.html.erb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/store/index.html.haml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/users/_form.html.erb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/users/_user.json.jbuilder" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/users/edit.html.erb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/users/index.html.erb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/users/index.json.jbuilder" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/users/new.html.erb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/users/show.html.erb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/users/show.json.jbuilder" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/bundle" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/rails" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/rake" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/setup" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/update" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config.ru" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/application.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/boot.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/cable.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/database.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/deploy.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/deploy/production.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/environment.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/environments/development.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/environments/production.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/environments/test.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/initializers/application_controller_renderer.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/initializers/assets.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/initializers/backtrace_silencers.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/initializers/cookies_serializer.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/initializers/filter_parameter_logging.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/initializers/i18n.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/initializers/inflections.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/initializers/mime_types.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/initializers/new_framework_defaults.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/initializers/session_store.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/initializers/wrap_parameters.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/locales/en.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/locales/es.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/puma.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/routes.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/secrets.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/spring.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/backup/production.backup" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20160330000001_create_products.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20160330000002_create_carts.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20160330000003_create_line_items.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20160330000004_add_quantity_to_line_items.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20160330000005_combine_items_in_cart.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20160330000006_add_price_to_line_item.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20160330000007_create_orders.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20160330000008_add_order_id_to_line_item.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20160330000009_create_users.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/production.db" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/schema.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/seeds.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/desktop.ini" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/assets/.keep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/capistrano/tasks/deploy-seed.rake" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/tasks/.keep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/tasks/db_backup.rake" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/tasks/db_schema_migrations.rake" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/404.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/422.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/500.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/apple-touch-icon-precomposed.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/apple-touch-icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/favicon.ico" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/robots.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/script/creditcard.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/script/load_orders.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/store.ru" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/controllers/.keep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/controllers/admin_controller_test.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/controllers/carts_controller_test.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/controllers/line_items_controller_test.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/controllers/orders_controller_test.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/controllers/products_controller_test.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/controllers/sessions_controller_test.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/controllers/store_controller_test.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/controllers/users_controller_test.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/fixtures/.keep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/fixtures/carts.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/fixtures/files/.keep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/fixtures/line_items.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/fixtures/orders.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/fixtures/products.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/fixtures/users.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/helpers/.keep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/integration/.keep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/integration/dsl_user_stories_test.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/integration/user_stories_test.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/mailers/.keep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/mailers/order_mailer_test.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/mailers/previews/order_mailer_preview.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/models/.keep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/models/cart_test.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/models/line_item_test.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/models/order_test.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/models/product_test.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/models/user_test.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/test_helper.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/javascripts/.keep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/.keep" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.bundle/" />
+    <ignored path="$PROJECT_DIR$/components/" />
+    <ignored path="$PROJECT_DIR$/public/system/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <ignored path="$PROJECT_DIR$/vendor/bundle/" />
+    <ignored path="$PROJECT_DIR$/vendor/cache/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="rake" pinned="false" current-in-tab="false">
+        <entry file="file://C:/RailsInstaller/Ruby2.3.3/bin/rake">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="15" column="3" lean-forward="false" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="database.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/database.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/config/database.yml" />
+        <option value="$PROJECT_DIR$/Gemfile" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="211" />
+    <option name="width" value="971" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="OYM_Depot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OYM_Depot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OYM_Depot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OYM_Depot" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="RailsProjectView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Rails.Development: OYM_Depot">
+    <configuration name="Development: OYM_Depot" type="RailsRunConfigurationType" factoryName="Rails">
+      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
+      <module name="OYM_Depot" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="127.0.0.1" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+    </configuration>
+    <configuration name="Production: OYM_Depot" type="RailsRunConfigurationType" factoryName="Rails">
+      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
+      <module name="OYM_Depot" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="127.0.0.1" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="production" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+    </configuration>
+    <configuration name="spec: OYM_Depot" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="OYM_Depot" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="spec" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":rspec " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+    </configuration>
+    <configuration name="test: OYM_Depot" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="OYM_Depot" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="RAILS_ENV" value="test" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="test" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":test_unit " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Rake.test: OYM_Depot" />
+      <item index="1" class="java.lang.String" itemvalue="Rake.spec: OYM_Depot" />
+      <item index="2" class="java.lang.String" itemvalue="Rails.Production: OYM_Depot" />
+      <item index="3" class="java.lang.String" itemvalue="Rails.Development: OYM_Depot" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f6a1de1-8060-4b9a-b7ce-696ff883955c" name="Default" comment="" />
+      <created>1520864924151</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1520864924151</updated>
+      <workItem from="1520864937765" duration="1853000" />
+      <workItem from="1520898723842" duration="1284000" />
+      <workItem from="1520904212267" duration="1562000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4699000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="211" y="0" width="971" height="728" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26783755" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3369906" sideWeight="0.5045386" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329582" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34565917" sideWeight="0.49546143" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://C:/RailsInstaller/Ruby2.3.3/bin/rake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="3" lean-forward="false" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/RailsInstaller/Ruby2.3.3/bin/rake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/RailsInstaller/Ruby2.3.3/bin/rake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="15" column="3" lean-forward="false" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
